@@ -1,21 +1,21 @@
-# 💸 Real-Time Crypto Price Tracker
+#  Real-Time Crypto Price Tracker
 
 A responsive React + Redux Toolkit web app that tracks real-time cryptocurrency prices, simulates WebSocket updates, and visualizes trends with 7-day sparkline charts.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 **Live Crypto Table**: View live data of top and trending coins
-- 📈 **7-Day Price Trend Charts** (sparklines) using `recharts`
-- 🔄 **Real-Time Simulated Updates** using `setInterval`
-- 🌈 **Tailwind-Styled UI**: Clean, responsive, and mobile-friendly
-- 🧠 **State Managed with Redux Toolkit**
-- ✅ Percentage changes color-coded for quick insights
+-  **Live Crypto Table**: View live data of top and trending coins
+-  **7-Day Price Trend Charts** (sparklines) using `recharts`
+-  **Real-Time Simulated Updates** using `setInterval`
+-  **Tailwind-Styled UI**: Clean, responsive, and mobile-friendly
+-  **State Managed with Redux Toolkit**
+-  Percentage changes color-coded for quick insights
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React (Vite)
 - **State Management**: Redux Toolkit
@@ -24,26 +24,25 @@ A responsive React + Redux Toolkit web app that tracks real-time cryptocurrency 
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 crypto-tracker-styled/
 ├── src/
-│   ├── app/             # Redux store
-│   ├── features/crypto  # Crypto table & slice
-│   ├── utils/           # Mock socket simulation
-│   ├── main.jsx         # React entry point
-│   └── index.css        # Tailwind setup
+│   ├── app/             
+│   ├── features/crypto  
+│   ├── utils/           
+│   ├── main.jsx         
+│   └── index.css        
 ├── public/
 ├── tailwind.config.js
 ├── package.json
 ├── vite.config.js
-└── README.md
 ```
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # Clone the repository
@@ -61,7 +60,7 @@ npm run dev
 
 ---
 
-## 📷 Demo Preview
+##  Demo Preview
 
 
 https://github.com/user-attachments/assets/30a86f9c-cb51-464e-9179-3761902c9167
@@ -69,17 +68,17 @@ https://github.com/user-attachments/assets/30a86f9c-cb51-464e-9179-3761902c9167
 
 ---
 
-## 📌 Future Enhancements (Ideas)
+##  Future Enhancements
 
-- Integrate **real WebSocket API** (e.g., Binance or CoinGecko)
-- Add filters for **Top Gainers / Losers**
-- Enable **search or sorting**
-- Add **user favorites/bookmarks**
+- Integrate real WebSocket API** 
+- Add filters for Top Gainers / Losers**
+- Enable search or sorting**
+- Add user favorites/bookmarks**
 - Deploy to GitHub Pages or Netlify
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Built with ❤️ by [@mananyatrivedi](https://github.com/nanyatrivedi)
 
