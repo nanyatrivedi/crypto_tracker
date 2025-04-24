@@ -163,7 +163,6 @@ const cryptoSlice = createSlice({
         asset.change7d = change7d;
         asset.volume24h = volume24h;
 
-        // Maintain 7-day history (shift + push)
         asset.history.shift();
         asset.history.push(price);
       }
