@@ -64,6 +64,8 @@ npm run dev
 ## 📷 Demo Preview
 
 
+https://github.com/user-attachments/assets/30a86f9c-cb51-464e-9179-3761902c9167
+
 
 ---
 
