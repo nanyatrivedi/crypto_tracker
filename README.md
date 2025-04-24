@@ -70,10 +70,10 @@ https://github.com/user-attachments/assets/30a86f9c-cb51-464e-9179-3761902c9167
 
 ##  Future Enhancements
 
-- Integrate real WebSocket API** 
-- Add filters for Top Gainers / Losers**
-- Enable search or sorting**
-- Add user favorites/bookmarks**
+- Integrate real WebSocket API
+- Add filters for Top Gainers / Losers
+- Enable search or sorting
+- Add user favorites/bookmarks
 - Deploy to GitHub Pages or Netlify
 
 ---
