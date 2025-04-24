@@ -61,7 +61,7 @@ export default function CryptoTable({ title, data }) {
                       <Line
                         type="monotone"
                         dataKey="price"
-                        stroke={coin.change7d >= 0 ? "#22c55e" : "#ef4444"} // green or red
+                        stroke={coin.change7d >= 0 ? "#22c55e" : "#ef4444"} 
                         dot={false}
                         strokeWidth={2}
                       />
